@@ -1,2 +1,3 @@
 Update 1: I practiced Git commits.
 Update 2: I practiced pushing to GitHub.
+Update 3: I completed my Git practice.
