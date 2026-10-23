@@ -1,1 +1,2 @@
 Update 1: I practiced Git commits.
+Update 2: I practiced pushing to GitHub.
